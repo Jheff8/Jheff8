@@ -1,6 +1,5 @@
 ### Olá! Eu sou Jhefferson Muzy, desenvolvedor Front-end. 👋
 ##
-<br>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jheff8&show_icons=true&theme=midnight-purple"/></div><br>
 <p>Minhas hablidades:</p>
 <div style="display: inline_block"><br>
