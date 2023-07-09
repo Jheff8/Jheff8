@@ -1,6 +1,5 @@
 ### Hello! I am Jhefferson Muzy, front-end developer. 👋
 ##
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jheff8&show_icons=true&theme=midnight-purple"/></div><br>
 <p>My skills:</p>
 <div style="display: inline_block">
   <img align="center" alt="Jheff-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
