@@ -1,4 +1,4 @@
-### Hello! I am Jhefferson Muzy, front-end developer. 👋
+### Hello, World! I am Jhefferson Muzy, front-end developer. 👋
 ##
 <p>My skills:</p>
 <div style="display: inline_block">
